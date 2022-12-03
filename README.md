@@ -4,7 +4,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/229239275483299841/widget.png)](https://discord.gg/5RXDkBgYPw)
 
-# Coming soon
+# Sign-up form
 
 _website design project_
 
