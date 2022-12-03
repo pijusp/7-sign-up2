@@ -118,6 +118,25 @@ form .button input:hover {
     box-shadow: 0px 0.75em 0.2em -0.45em #888;
     transition: all 0.5s;
 }
+@media (max-width: 584px) {
+    .container{
+        max-width: 100%;
+    }
+    form .user-details .input-box{
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    form .gender-details .category{
+        width: 100%;
+    }
+    .container form .user-details {
+        max-height: 300px;
+        overflow-y: scroll; 
+    }
+    .user-details::-webkit-scrollbar{
+        width: 0;
+    }
+}
 
 
 
